@@ -2,7 +2,7 @@
 
 Dashboard interactivo en Power BI que analiza la evolución de la participación de hombres y mujeres en el empleo formal en Costa Rica, usando datos oficiales del INEC.
 
-![Dashboard de Empleo Formal](image.png)
+![empleo_formalimage.png.png](empleo_formalimage.png.png)
 
 ## Objetivo
 Identificar cómo ha cambiado la brecha de participación entre hombres y mujeres en el empleo formal a lo largo del tiempo, y visualizar la tendencia año a año.
